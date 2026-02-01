@@ -30,6 +30,4 @@ python bunco.py
 ### Simulation Script
 ```bash
 python simulate_bunco.py
-
-
-
+```
