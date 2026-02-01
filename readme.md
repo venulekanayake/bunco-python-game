@@ -25,8 +25,10 @@ It demonstrates programming fundamentals, probability analysis, and simple data 
 ### Interactive Game
 ```bash
 python bunco.py
+```
 
-### Simulation Script
+## Simulation Script
 ```bash
 python simulate_bunco.py
+
 
